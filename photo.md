@@ -7,5 +7,5 @@ permalink: /photo/
 ## Themes
 
 - [snowy](/photo/snowy/)
-- shiny
+- [shiny](/photo/shiny/)
 

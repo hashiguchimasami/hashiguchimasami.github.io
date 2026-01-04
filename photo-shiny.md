@@ -11,4 +11,3 @@ permalink: /photo/shiny/
 ![shiny5](/assets/images/photo/shiny/05.jpg)
 ![shiny6](/assets/images/photo/shiny/06.jpg)
 ![shiny7](/assets/images/photo/shiny/07.jpg)
-

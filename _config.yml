@@ -1,5 +1,38 @@
+# --------------- Site settings ---------------
 title: "Masami Hashiguchi Portfolio"
-author: "Masami Hashiguchi"
-
+description: "ポートフォリオサイト"
 url: "https://hashiguchimasami.github.io"
-baseurl: ""
+baseurl: "" # default is ''
+
+# Author info
+author:
+  name: "Masami Hashiguchi"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "ポートフォリオサイト"
+
+# Theme
+remote_theme: "mmistakes/mm-github-pages-starter@latest"
+
+# Plugins (necessary for Minimal Mistakes on GitHub Pages)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation in the header
+header_pages:
+  - index.md
+  - about.md
+  - portfolio.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

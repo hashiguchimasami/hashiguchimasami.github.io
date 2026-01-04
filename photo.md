@@ -8,4 +8,3 @@ permalink: /photo/
 
 - [snowy](/photo/snowy/)
 - [shiny](/photo/shiny/)
-

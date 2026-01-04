@@ -15,3 +15,11 @@ plugins:
 author:
   name: "Masami Hashiguchi"
   bio: "Portfolio"
+
+author:
+  name: "Masami Hashiguchi"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Designer / Portfolio"
+
+minimal_mistakes_skin: "air" # 見た目変更（他：mint, contrast など）
+

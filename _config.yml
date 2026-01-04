@@ -11,7 +11,7 @@ author:
   bio: "ポートフォリオサイト"
 
 # Theme
-remote_theme: "mmistakes/mm-github-pages-starter@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Plugins (necessary for Minimal Mistakes on GitHub Pages)
 plugins:

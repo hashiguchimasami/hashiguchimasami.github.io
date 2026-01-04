@@ -7,4 +7,4 @@ permalink: /photo/
 ## Themes
 
 - [snowy](/photo/snowy/)
-- shiny
+- [キラキラ](/photo/kirakira/)

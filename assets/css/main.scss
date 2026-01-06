@@ -1,13 +1,14 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minimal-mistakes";
 
-/* ギャラリー画像を完全に直角にする */
+/* ギャラリー画像の角を直角にする */
 .page__content .gallery__link {
   border-radius: 0 !important;
 }
 
-.page__content .gallery__link img {
+.page__content .gallery__item img {
   border-radius: 0 !important;
 }

@@ -9,3 +9,4 @@ permalink: /photo/
 - [snowy](/photo/snowy/)
 - [キラキラ](/photo/kirakira/)
 - [story](/photo/story)
+- [記憶](/photo/kioku)

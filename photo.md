@@ -10,3 +10,4 @@ permalink: /photo/
 - [キラキラ](/photo/kirakira/)
 - [story](/photo/story)
 - [記憶](/photo/kioku)
+- [淡い](/photo/awai)

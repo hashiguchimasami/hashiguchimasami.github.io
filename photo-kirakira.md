@@ -13,6 +13,6 @@ gallery:
     image_path: /assets/images/photo/kirakira/04.jpg
 ---
 
-{% include gallery columns=3 %}
+{% include gallery columns=2 %}
 
 

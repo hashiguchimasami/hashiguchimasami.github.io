@@ -17,8 +17,12 @@ body {
 .site-title {
   margin-bottom: 40px;
 }
-
 .site-title h1 {
+  font-size: 14px;
+  color: #111;
+}
+
+.site-title h2 {
   font-size: 32px;
   font-weight: 400;
 }

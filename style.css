@@ -1,0 +1,43 @@
+/* 全体の初期化（超重要） */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 全体 */
+body {
+  font-family: 'Inter', sans-serif;
+  background: #efeef2;
+  color: #111;
+  padding: 40px;
+}
+
+/* タイトル */
+.site-title {
+  margin-bottom: 40px;
+}
+
+.site-title h1 {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.site-title p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* 写真グリッド */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* 写真 */
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
